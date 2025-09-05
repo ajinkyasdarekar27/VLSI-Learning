@@ -39,6 +39,11 @@
 | 1 | 1 |  0  |  0  |   1   |
 | 1 | 1 |  1  |  1  |   1   |
 
+## 📊 Simulation Waveform
+
+### Full Adder  
+![Full Adder Waveform](simulation/full_adder_waveform.png)
+
 ## ✅ Expected Outcome
 - Half Adder should produce correct Sum & Carry.
 - Full Adder should function correctly with hierarchical instantiation.
