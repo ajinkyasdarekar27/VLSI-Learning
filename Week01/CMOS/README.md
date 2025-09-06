@@ -12,7 +12,7 @@
 
 ### 📊 Simulation Results
 #### Transient
-![CMOS Inverter Transient](inverter_transient.jpg)
+![CMOS Inverter Transient](inverter_waveform.jpg)
 
 #### VTC
 ![CMOS Inverter VTC](inverter_vtc.jpg)
